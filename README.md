@@ -56,3 +56,5 @@
     <a href="https://tiktok.com/@prasy4ever" target="_blank"><img
             src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logoColor=white&logo=tiktok"
             alt="Tiktok"></a>
+
+![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
