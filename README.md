@@ -1,5 +1,3 @@
-**<h1 align="center">Prasy Ikuzo</h1>*
-
 ![image](https://github.com/PrasyIkuzo/Batlez-Tweaks/blob/main/images/Logo.png)
 <p align="center">
   <img src="https://github.com/PrasyIkuzo/Batlez-Tweaks/blob/main/images/BatlezTweaks.png?raw=true" alt="Product Name Screenshot" />
