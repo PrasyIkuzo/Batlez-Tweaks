@@ -1,4 +1,4 @@
-**<h1 align="center">Prasy Ikuzo</h1>**
+**<h1 align="center">Prasy Ikuzo</h1>*
 
 ![image](https://github.com/PrasyIkuzo/Batlez-Tweaks/blob/main/images/Logo.png)
 <p align="center">
