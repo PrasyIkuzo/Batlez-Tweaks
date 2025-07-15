@@ -11,11 +11,17 @@
             src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github" alt="Github"></a>
 </p>
 
+## 🍻 Buy Me A Coffee
+<a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
+            src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
+            alt="Saweria"></a>
+[![Saweria](https://img.shields.io/badge/Click--Here-white?style=for-the-badge&logo=saweria)](https://saweria.co/PrasyIkuzo)
+
 > [!NOTE]  
 > **If you experience issues, please verify your installation or try reinstalling.**
 > **I cannot be held responsible for any potential system issues.**
 
-## ❓️ INSTALLATION
+## 🛑 INSTALLATION
 - [Download The Latest Release](https://github.com/Batlez/Batlez/releases/latest/)
 - Right-click on Batlez Tweaks.bat and select run as Administrator
 -  Follow the on-screen instructions to select the Tweaks you want
