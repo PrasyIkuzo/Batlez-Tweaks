@@ -36,6 +36,7 @@
 
 ## 🌐 MY SOCIAL MEDIA
 
+<p align="center">
 <a href="https://instagram.com/prasy_ikuzoreal" target="_blank"><img
             src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
             alt="Instagram"></a>
