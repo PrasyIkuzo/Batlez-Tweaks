@@ -15,20 +15,20 @@
 > **If you experience issues, please verify your installation or try reinstalling.**
 > **I cannot be held responsible for any potential system issues.**
 
-## ❓️ INSTALLATION :
+## ❓️ INSTALLATION
 - [Download The Latest Release](https://github.com/Batlez/Batlez/releases/latest/)
 - Right-click on Batlez Tweaks.bat and select run as Administrator
 -  Follow the on-screen instructions to select the Tweaks you want
 - Wait while the script applies your selections (this may take a few moments)
 - Enjoy the [Improved System Performance](https://raw.githubusercontent.com/Batlez/Batlez/main/images/minecraft.png) (GeForce GTX 1060)
 
-## 📖 LICENSE :
+## 📖 LICENSE
 - It is distributed under the Unlicense license.
 - See list `LICENSE` for more information.
 
 [product-screenshot]: https://github.com/PrasyFanatic/Batlez-Tweaks/blob/main/images/BatlezTweaks.png
 
-## [+] MY SOCIAL MEDIA :
+## 🌐 MY SOCIAL MEDIA
 
 <a href="https://discord.gg/swd8nVaS3w" target="_blank"><img
             src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logoColor=white&logo=discord"
