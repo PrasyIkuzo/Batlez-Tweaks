@@ -1,7 +1,6 @@
-![image](https://github.com/PrasyIkuzo/Batlez-Tweaks/blob/main/images/Logo.png)
-<p align="center">
-  <img src="https://github.com/PrasyIkuzo/Batlez-Tweaks/blob/main/images/BatlezTweaks.png?raw=true" alt="Product Name Screenshot" />
-</p>
+![BATLEZ TWEAKS](https://github.com/PrasyIkuzo/Batlez-Tweaks/blob/main/images/Logo.png)
+  
+![BATLEZ TWEAKS](https://github.com/PrasyIkuzo/Batlez-Tweaks/blob/main/images/BatlezTweaks.png)
 
 <p align="center">
   <a href="https://github.com/Batlez/Batlez-Tweaks/releases/latest">
