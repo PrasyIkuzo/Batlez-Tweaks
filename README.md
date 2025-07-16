@@ -7,7 +7,7 @@
   <a href="https://github.com/Batlez/Batlez-Tweaks/releases/latest">
     <img src="https://img.shields.io/github/downloads/Batlez/Batlez-Tweaks/total?style=for-the-badge" alt="GitHub all releases" />
   </a>
-  <a href="https://github.com/PrasyFanatic" target="_blank"><img
+  <a href="https://github.com/PrasyIkuzo" target="_blank"><img
             src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github" alt="Github"></a>
 </p>
 
