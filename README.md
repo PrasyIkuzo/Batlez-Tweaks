@@ -35,5 +35,6 @@ ___________________________________________________________________
 
 [product-screenshot]: https://github.com/PrasyFanatic/Batlez-Tweaks/blob/main/images/BatlezTweaks.png
 
-## 👋 **Se You Next Time**
-![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
+<br>
+
+![Dinosaurs 🗿](
