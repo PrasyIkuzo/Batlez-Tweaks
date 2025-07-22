@@ -37,4 +37,4 @@ ___________________________________________________________________
 
 <br>
 
-![Dinosaurs 🗿](
+![Dinosaurs 🗿](https://github.com/PrasyIkuzo/Batlez-Tweaks/blob/main/images/dino.gif)
